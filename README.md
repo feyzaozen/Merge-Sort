@@ -1,6 +1,8 @@
 # Merge-Sort
 
 
+Problem: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
+<pre>
 
 [16,21,11,8,12,22] 
 
@@ -21,3 +23,4 @@
 
 8 11 12 16 21 22  </br>
  
+</pre>
