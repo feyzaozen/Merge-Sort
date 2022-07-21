@@ -24,3 +24,6 @@ Problem: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort
 8 11 12 16 21 22  </br>
  
 </pre>
+
+
+Big-O: n * log(n)
